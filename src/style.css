@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #EF476F;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#root{
+  height: 100%;
+}
+.app {
+  height: 90%;
+  padding: 5%;
+  color: white;
+}
+h1{
+  width: 100%;
+  margin: 0;
+  padding-top: 50%;
+  padding-bottom: 10%;
+  text-align: center;
+  font-size: 2.3rem;
+
+}
+
+button {
+  text-align: center;
+  display: auto;
+  width: 100%;
+  padding: 2rem;
+  border: 2px solid white;
+  background-color: #EF476F;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hidden {
+  display: none;
+}
